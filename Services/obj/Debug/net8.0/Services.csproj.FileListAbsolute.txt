@@ -1,0 +1,39 @@
+C:\Users\Tooba Kashaf\Desktop\c#\Services\bin\Debug\net8.0\LibraryManagement.Services.exe
+C:\Users\Tooba Kashaf\Desktop\c#\Services\bin\Debug\net8.0\LibraryManagement.Services.deps.json
+C:\Users\Tooba Kashaf\Desktop\c#\Services\bin\Debug\net8.0\LibraryManagement.Services.runtimeconfig.json
+C:\Users\Tooba Kashaf\Desktop\c#\Services\bin\Debug\net8.0\LibraryManagement.Services.dll
+C:\Users\Tooba Kashaf\Desktop\c#\Services\bin\Debug\net8.0\LibraryManagement.Services.pdb
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\Services.sourcelink.json
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\LibraryManagement.Services.dll
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\refint\LibraryManagement.Services.dll
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\LibraryManagement.Services.pdb
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\Services.genruntimeconfig.cache
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\ref\LibraryManagement.Services.dll
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\bin\Debug\net8.0\LibraryManagement.Data.deps.json
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\bin\Debug\net8.0\LibraryManagement.Data.runtimeconfig.json
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\bin\Debug\net8.0\LibraryManagement.Data.exe
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\bin\Debug\net8.0\LibraryManagement.Services.exe
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\bin\Debug\net8.0\LibraryManagement.Services.deps.json
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\bin\Debug\net8.0\LibraryManagement.Services.runtimeconfig.json
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\bin\Debug\net8.0\LibraryManagement.Services.dll
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\bin\Debug\net8.0\LibraryManagement.Services.pdb
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\bin\Debug\net8.0\LibraryManagement.Data.dll
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\bin\Debug\net8.0\Models.dll
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\bin\Debug\net8.0\Models.pdb
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\bin\Debug\net8.0\LibraryManagement.Data.pdb
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\obj\Debug\net8.0\Services.sourcelink.json
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\obj\Debug\net8.0\LibraryManagement.Services.dll
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\obj\Debug\net8.0\refint\LibraryManagement.Services.dll
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\obj\Debug\net8.0\LibraryManagement.Services.pdb
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\obj\Debug\net8.0\Services.genruntimeconfig.cache
+C:\Users\Tooba Kashaf\Desktop\c#\Session 01\Services\obj\Debug\net8.0\ref\LibraryManagement.Services.dll

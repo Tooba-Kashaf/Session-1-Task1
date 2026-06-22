@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>LibraryManagement.Queries</RootNamespace>
+    <AssemblyName>LibraryManagement.Queries</AssemblyName>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+  <ProjectReference Include="..\Models\Models.csproj" />
+  <ProjectReference Include="..\Data\Data.csproj" />
+</ItemGroup>
+
+</Project>

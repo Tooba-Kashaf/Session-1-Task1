@@ -1,0 +1,15 @@
+C:\Users\Tooba Kashaf\Desktop\c#\Queries\obj\Debug\net8.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tooba Kashaf\Desktop\c#\Queries\obj\Debug\net8.0\c#.AssemblyInfoInputs.cache
+C:\Users\Tooba Kashaf\Desktop\c#\Queries\obj\Debug\net8.0\c#.AssemblyInfo.cs
+C:\Users\Tooba Kashaf\Desktop\c#\Queries\obj\Debug\net8.0\c#.csproj.CoreCompileInputs.cache
+C:\Users\Tooba Kashaf\Desktop\c#\Queries\obj\Debug\net8.0\c#.sourcelink.json
+C:\Users\Tooba Kashaf\Desktop\c#\Queries\bin\Debug\net8.0\LibraryManagement.Queries.exe
+C:\Users\Tooba Kashaf\Desktop\c#\Queries\bin\Debug\net8.0\LibraryManagement.Queries.deps.json
+C:\Users\Tooba Kashaf\Desktop\c#\Queries\bin\Debug\net8.0\LibraryManagement.Queries.runtimeconfig.json
+C:\Users\Tooba Kashaf\Desktop\c#\Queries\bin\Debug\net8.0\LibraryManagement.Queries.dll
+C:\Users\Tooba Kashaf\Desktop\c#\Queries\bin\Debug\net8.0\LibraryManagement.Queries.pdb
+C:\Users\Tooba Kashaf\Desktop\c#\Queries\obj\Debug\net8.0\LibraryManagement.Queries.dll
+C:\Users\Tooba Kashaf\Desktop\c#\Queries\obj\Debug\net8.0\refint\LibraryManagement.Queries.dll
+C:\Users\Tooba Kashaf\Desktop\c#\Queries\obj\Debug\net8.0\LibraryManagement.Queries.pdb
+C:\Users\Tooba Kashaf\Desktop\c#\Queries\obj\Debug\net8.0\c#.genruntimeconfig.cache
+C:\Users\Tooba Kashaf\Desktop\c#\Queries\obj\Debug\net8.0\ref\LibraryManagement.Queries.dll

@@ -1,0 +1,15 @@
+C:\Users\Tooba Kashaf\Desktop\c#\Services\bin\Debug\net8.0\LibraryManagement.Services.exe
+C:\Users\Tooba Kashaf\Desktop\c#\Services\bin\Debug\net8.0\LibraryManagement.Services.deps.json
+C:\Users\Tooba Kashaf\Desktop\c#\Services\bin\Debug\net8.0\LibraryManagement.Services.runtimeconfig.json
+C:\Users\Tooba Kashaf\Desktop\c#\Services\bin\Debug\net8.0\LibraryManagement.Services.dll
+C:\Users\Tooba Kashaf\Desktop\c#\Services\bin\Debug\net8.0\LibraryManagement.Services.pdb
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\c#.AssemblyInfoInputs.cache
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\c#.AssemblyInfo.cs
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\c#.csproj.CoreCompileInputs.cache
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\c#.sourcelink.json
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\LibraryManagement.Services.dll
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\refint\LibraryManagement.Services.dll
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\LibraryManagement.Services.pdb
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\c#.genruntimeconfig.cache
+C:\Users\Tooba Kashaf\Desktop\c#\Services\obj\Debug\net8.0\ref\LibraryManagement.Services.dll
